@@ -1,2 +1,2 @@
 # Hack-Camp 2019 
-Hack Camp Website
+Hack Camp's Website
